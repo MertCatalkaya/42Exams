@@ -12,6 +12,6 @@ Bu depo, yenilikçi pedagojisi ve öğrenciler arası öğrenmeye dayanan eğiti
 Bu depo, sınavlara hazırlanmak isteyen öğrencilerin yanı sıra Ecole42 müfredatı hakkında daha fazla bilgi edinmek isteyen herkes için bir kaynak olarak hizmet vermektedir.  
 Bu depo sayesinde eksik olduğunuz konuları belirleyebilir, farklı çözümler yapmış kişiler ile iletişime geçerek çözümlerinizi karşılaştırıp tartışabilirsiniz.  
 
-[42İstanbul ve 42Kocaeli öğrencilerini LinkedIn grubumuza bekleriz.](https://www.linkedin.com/groups/9313681/
+[42İstanbul ve 42Kocaeli öğrencilerini LinkedIn grubumuza bekleriz.](https://www.linkedin.com/groups/9313681/  
 )
 ![](https://visitor-badge.glitch.me/badge?page_id=MertCatalkaya)
